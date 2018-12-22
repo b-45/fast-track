@@ -3,7 +3,7 @@
 ![title](https://github.com/b-45/fast-track/blob/master/src/assets/title.png)
 ![image](https://github.com/b-45/fast-track/blob/master/src/assets/frame.png)
 
-click link to check fast-track - [https://fast-track.netlify.com/](https://fast-track.netlify.com/)
+View fast-track here - [https://fast-track.netlify.com/](https://fast-track.netlify.com/)
 
 ### Issues
 
@@ -31,3 +31,5 @@ click link to check fast-track - [https://fast-track.netlify.com/](https://fast-
 
 - [x] create side navigation links
 - [x] create text report cards
+- [x] create barchart component
+- [x] create linechart component

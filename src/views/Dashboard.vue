@@ -8,6 +8,7 @@
     <SideNav></SideNav>
     <!-- text report card -->
     <TextReportCards></TextReportCards>
+    <DashboardCharts></DashboardCharts>
 
   </v-container>
 </template>
@@ -16,12 +17,15 @@
 const SideNav = () => import("@/components/dashboardComponents/SideNav.vue");
 const TextReportCards = () =>
   import("@/components/dashboardComponents/TextReportCards.vue");
+const DashboardCharts = () =>
+  import("@/components/dashboardComponents/DashboardCharts.vue");
 
 export default {
   name: "Dashboard",
   components: {
     SideNav,
-    TextReportCards
+    TextReportCards,
+    DashboardCharts
   }
 };
 </script>
