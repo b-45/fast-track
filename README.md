@@ -1,4 +1,4 @@
-### Static mock up of a order management app in Vue.js
+### Static mock-up of an order management app in Vue.js.
 
 ![title](https://github.com/b-45/fast-track/blob/master/src/assets/title.png)
 ![image](https://github.com/b-45/fast-track/blob/master/src/assets/frame.png)
@@ -22,4 +22,4 @@
   Inventory Cards
 
 - [x] implement cards for inventory entries
-- [ ] create navigation drawer with list of inventory metrics
+- [x] create navigation drawer with list of inventory metrics
