@@ -11,3 +11,4 @@
 - [x] add color palette
 - [x] setup views/routers for dashboard, orders, and inventory pages
 - [x] add toolbar
+- [x] add data
