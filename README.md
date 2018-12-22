@@ -23,3 +23,8 @@
 
 - [x] implement cards for inventory entries
 - [x] create navigation drawer with list of inventory metrics
+
+  Dashboard
+
+- [x] create side navigation links
+- [ ]
