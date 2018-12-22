@@ -7,6 +7,8 @@
         class="py-2"
       >
         <v-btn-toggle>
+          <!-- form -->
+          <Form></Form>
 
           <!-- sort -->
           <v-btn
@@ -116,10 +118,12 @@
 </template>
 
 <script>
+const Form = () => import("@/components/ordersComponents/Form.vue");
 import { orders } from "../../../data.js";
 export default {
   name: "OrderCards",
   props: ["drawer"],
+  components: { Form },
   data() {
     return {
       orders

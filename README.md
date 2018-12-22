@@ -12,4 +12,6 @@
 - [x] setup views/routers for dashboard, orders, and inventory pages
 - [x] add toolbar
 - [x] add data
+      Order Cards
 - [x] implement cards for orders
+- [x] create form to add orders
