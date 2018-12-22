@@ -15,3 +15,4 @@
       Order Cards
 - [x] implement cards for orders
 - [x] create form to add orders
+- [x] create navigation drawer with list of metrics
