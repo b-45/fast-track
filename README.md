@@ -12,7 +12,14 @@
 - [x] setup views/routers for dashboard, orders, and inventory pages
 - [x] add toolbar
 - [x] add data
-      Order Cards
+
+  Order Cards
+
 - [x] implement cards for orders
 - [x] create form to add orders
-- [x] create navigation drawer with list of metrics
+- [x] create navigation drawer with list of order metrics
+
+  Inventory Cards
+
+- [x] implement cards for inventory entries
+- [ ] create navigation drawer with list of inventory metrics

@@ -120,8 +120,6 @@
       </v-layout>
     </v-navigation-drawer>
   </v-container>
-
-  </v-container>
 </template>
 
 <script>
