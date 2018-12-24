@@ -10,6 +10,7 @@
     <TextReportCards></TextReportCards>
     <DashboardCharts></DashboardCharts>
     <ReportCharts></ReportCharts>
+    <Table></Table>
 
   </v-container>
 </template>
@@ -22,6 +23,7 @@ const DashboardCharts = () =>
   import("@/components/dashboardComponents/DashboardCharts.vue");
 const ReportCharts = () =>
   import("@/components/dashboardComponents/ReportCharts.vue");
+const Table = () => import("@/components/dashboardComponents/Table.vue");
 
 export default {
   name: "Dashboard",
@@ -29,7 +31,8 @@ export default {
     SideNav,
     TextReportCards,
     DashboardCharts,
-    ReportCharts
+    ReportCharts,
+    Table
   }
 };
 </script>
