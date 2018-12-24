@@ -33,3 +33,5 @@ View fast-track here - [https://fast-track.netlify.com/](https://fast-track.netl
 - [x] create text report cards
 - [x] create barchart component
 - [x] create linechart component
+- [x] create row of pie charts and sparklines
+- [ ] create table
